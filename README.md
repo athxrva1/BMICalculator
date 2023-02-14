@@ -23,6 +23,6 @@ A fully funcitoning Body Mass Index (BMI) Calculator was made along with a messa
 
 ### This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at www.appbrewery.co
 
-<html><img src = "https://user-images.githubusercontent.com/76657562/218836794-79ed39f2-dfb9-4128-97c1-06ce1c713ade.png" width = "50%" height = "50%"></html>
+<html><center><img src = "https://user-images.githubusercontent.com/76657562/218836794-79ed39f2-dfb9-4128-97c1-06ce1c713ade.png" width = "35%" height = "35%"></center></html>
 
 
