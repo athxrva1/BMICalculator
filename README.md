@@ -21,4 +21,6 @@ A fully funcitoning Body Mass Index (BMI) Calculator was made along with a messa
 * Color literals.
 
 
-### This was a part of Angela Yu's course on iOS Development.
+### This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at www.appbrewery.co
+
+
